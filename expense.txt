@@ -1,0 +1,5 @@
+Expense: -100, Category: food, Date: 2023-05-23
+Expense: -100, Category: food, Date: 2023-05-15
+Expense: -200, Category: food, Date: 2023-05-23
+Expense: -300, Category: clothes, Date: 2023-05-23
+Expense: -45, Category: other, Date: 2023-05-23

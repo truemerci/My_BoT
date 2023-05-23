@@ -1,0 +1,1 @@
+Income: 1000, Category: salary, Date: 2023-05-23
